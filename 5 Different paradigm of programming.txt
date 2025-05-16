@@ -1,12 +1,26 @@
 Five Different Paradigms of Programming
 
- 1. Procedural Programming Paradigm
-Procedural programming is based on the concept of procedure calls, where a program is divided into procedures or functions. It emphasizes a step-by-step sequence of instructions that operate on data. This paradigm uses loops, conditionals, and function calls to control the flow of the program. Languages like C and Pascal follow this paradigm.
- 2. Object-Oriented Programming (OOP) Paradigm
-OOP organizes software design around data, or objects, rather than functions and logic. Objects are instances of classes, which bundle data and methods together. It supports key concepts like inheritance, encapsulation, polymorphism, and abstraction. Languages such as Java, C++, and Python support OOP.
- 3. Functional Programming Paradigm
-Functional programming treats computation as the evaluation of mathematical functions and avoids changing state or mutable data. It emphasizes the use of pure functions, higher-order functions, and immutability. Examples of functional programming languages include Haskell, Lisp, and Erlang. Python and JavaScript also support functional programming features.
- 4. Logic Programming Paradigm
-Logic programming is based on formal logic. A program consists of a set of facts and rules, and computation is performed through logical inference. This paradigm is especially useful in solving problems that involve complex relationships and constraints. Prolog is a well-known logic programming language.
+ 
+1. Procedural Programming Paradigm
+Procedural programming is based on the concept of procedure calls, where a program is divided into procedures or functions. 
+It emphasizes a step-by-step sequence of instructions that operate on data. This paradigm uses loops, conditionals, and function calls to control the flow of the program.
+ Languages like C and Pascal follow this paradigm.
+ 
+2. Object-Oriented Programming (OOP) Paradigm
+OOP organizes software design around data, or objects, rather than functions and logic. Objects are instances of classes, which bundle data and methods together. 
+It supports key concepts like inheritance, encapsulation, polymorphism, and abstraction. Languages such as Java, C++, and Python support OOP.
+ 
+3. Functional Programming Paradigm
+Functional programming treats computation as the evaluation of mathematical functions and avoids changing state or mutable data.
+ It emphasizes the use of pure functions, higher-order functions, and immutability. Examples of functional programming languages include Haskell, Lisp, and Erlang.
+ Python and JavaScript also support functional programming features.
+ 
+4. Logic Programming Paradigm
+Logic programming is based on formal logic. A program consists of a set of facts and rules, and computation is performed through logical inference. 
+This paradigm is especially useful in solving problems that involve complex relationships and constraints. 
+Prolog is a well-known logic programming language.
+
  5. Event-Driven Programming Paradigm
-Event-driven programming is based on the flow of the program being determined by events such as user actions (clicks, key presses), sensor outputs, or messages from other programs. It is widely used in graphical user interfaces, games, and real-time systems. JavaScript is a common language used in event-driven programming, especially for web applications.
+Event-driven programming is based on the flow of the program being determined by events such as user actions (clicks, key presses), sensor outputs, or messages from other programs.
+ It is widely used in graphical user interfaces, games, and real-time systems.
+ JavaScript is a common language used in event-driven programming, especially for web applications.
